@@ -14,3 +14,17 @@ The cause of the boot error is still being investigated.
 I am verifying that the correct virtual disk is attached and contains a bootable Kali Linux system.
 i used the wrong disk image 
 i later changed the boot order and the machine started working
+
+Encountered network connectivity issues while configuring the static IP address.
+Investigated connection activation errors and DNS resolution failures.
+Applied NetworkManager configuration changes to resolve the connectivity problems.
+Tested network communication using the ping command.
+Successfully established internet connectivity within the Kali Linux virtual machine.
+
+Created a /downloads directory on the Kali Linux host machine.
+Configured VirtualBox Shared Folders to allow file sharing between the host and guest operating systems.
+Enabled automatic mounting of the shared directory.
+Configured the necessary permissions to access shared files.
+Created a test file and successfully verified file sharing between the host and virtual machine.<img width="1366" height="739" alt="Screenshot From 2026-10-29 18-32-20" src="https://github.com/user-attachments/assets/af949136-58dc-4e89-9b27-47847b6ede57" />
+
+
