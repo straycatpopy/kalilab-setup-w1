@@ -27,4 +27,7 @@ Enabled automatic mounting of the shared directory.
 Configured the necessary permissions to access shared files.
 Created a test file and successfully verified file sharing between the host and virtual machine.<img width="1366" height="739" alt="Screenshot From 2026-10-29 18-32-20" src="https://github.com/user-attachments/assets/af949136-58dc-4e89-9b27-47847b6ede57" />
 
-
+Enabled bidirectional clipboard sharing in VirtualBox settings.
+Enabled bidirectional drag-and-drop functionality.
+Configured VirtualBox guest integration features.
+Successfully tested copying text and transferring files between the host and guest machines.
